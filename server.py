@@ -1,7 +1,6 @@
 import socket
 import threading
 import sys
-sys.path.append('..')
 from util import *
 import conf
 from sender import Sender
